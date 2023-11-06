@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maisie!
-- 👀 I’m interested in Philosophy (Aesthetics, Analytical Phil, Morality, Politics), AI Saftey, FOSS
+- 👀 I’m interested in Philosophy (Aesthetics, Analytical Phil, Morality, Politics)
 - 🌱 I’m currently learning AWS, git, zsh
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me maisiemaginn@outlook.com
